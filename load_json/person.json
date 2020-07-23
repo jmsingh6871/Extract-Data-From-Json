@@ -1,6 +1,6 @@
 [
   {
-    "image": "assets/images/nitesh.jpg",
+    "image": "assets/images/kitretsu.png",
     "name" : "Nitesh Nagpal",
     "age" : "21",
     "height" : "172",
@@ -9,7 +9,7 @@
   },
 
   {
-    "image": "assets/images/arpit.jpg",
+    "image": "assets/images/kitretsu.png",
     "name" : "Arpit Sodhi",
     "age" : "21",
     "height" : "165",
@@ -17,7 +17,7 @@
     "hair_color" : "black"
   },
   {
-    "image": "assets/images/jagmohan.jpg",
+    "image": "assets/images/kitretsu.png",
     "name" : "Jagmohan Singh",
     "age" : "2",
     "height" : "168",
@@ -25,7 +25,7 @@
     "hair_color" : "black"
   },
   {
-    "image": "assets/images/neha.jpg",
+    "image": "assets/images/kitretsu.png",
     "name" : "Neha Aggarwal",
     "age" : "3",
     "height" : "169",
@@ -33,7 +33,7 @@
     "hair_color" : "black"
   },
   {
-    "image": "assets/images/sonia2.jpg",
+    "image": "assets/images/kitretsu.png",
     "name" : "Sonia",
     "age" : "3",
     "height" : "169",
@@ -41,7 +41,7 @@
     "hair_color" : "black"
   },
   {
-    "image": "assets/images/supriya.jpg",
+    "image": "assets/images/kitretsu.png",
     "name" : "Supriya Nagpal",
     "age" : "3",
     "height" : "169",
@@ -49,7 +49,7 @@
     "hair_color" : "black"
   },
   {
-    "image": "assets/images/vaishali.jpg",
+    "image": "assets/images/kitretsu.png",
     "name" : "Vaishali",
     "age" : "3",
     "height" : "169",
