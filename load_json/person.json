@@ -1,0 +1,59 @@
+[
+  {
+    "image": "assets/images/nitesh.jpg",
+    "name" : "Nitesh Nagpal",
+    "age" : "21",
+    "height" : "172",
+    "gender" : "male",
+    "hair_color" : "black"
+  },
+
+  {
+    "image": "assets/images/arpit.jpg",
+    "name" : "Arpit Sodhi",
+    "age" : "21",
+    "height" : "165",
+    "gender" : "female",
+    "hair_color" : "black"
+  },
+  {
+    "image": "assets/images/jagmohan.jpg",
+    "name" : "Jagmohan Singh",
+    "age" : "2",
+    "height" : "168",
+    "gender" : "female",
+    "hair_color" : "black"
+  },
+  {
+    "image": "assets/images/neha.jpg",
+    "name" : "Neha Aggarwal",
+    "age" : "3",
+    "height" : "169",
+    "gender" : "female",
+    "hair_color" : "black"
+  },
+  {
+    "image": "assets/images/sonia2.jpg",
+    "name" : "Sonia",
+    "age" : "3",
+    "height" : "169",
+    "gender" : "female",
+    "hair_color" : "black"
+  },
+  {
+    "image": "assets/images/supriya.jpg",
+    "name" : "Supriya Nagpal",
+    "age" : "3",
+    "height" : "169",
+    "gender" : "female",
+    "hair_color" : "black"
+  },
+  {
+    "image": "assets/images/vaishali.jpg",
+    "name" : "Vaishali",
+    "age" : "3",
+    "height" : "169",
+    "gender" : "female",
+    "hair_color" : "black"
+  }
+]
