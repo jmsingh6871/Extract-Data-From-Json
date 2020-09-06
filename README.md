@@ -1,4 +1,4 @@
-# flutterjson Project
+# flutterjson
 
 A new Flutter project.
 This project extracts data from JSON and the extracted data will be used for making different cards.
